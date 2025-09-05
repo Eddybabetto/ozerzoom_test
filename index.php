@@ -15,7 +15,8 @@
     <div class="main-content">
         <div class="container">
             <h3 class="section-title">
-                Who we are?
+                <h1>CIAO</h1>
+                YEAH
                 <span>
                     <img src="img/title-triangle.png" alt="Icona triangolo" class="title-triangle">
                 </span>
