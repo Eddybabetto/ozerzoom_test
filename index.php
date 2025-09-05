@@ -7,7 +7,7 @@
     <!-- SLIDER -->
     <div class="slider">
         <div class="img-container">
-            <img src="img/girl-bg.jpg" alt="OzerZoom" class="slider-logo img-fluid">
+            <img src="img/start-full.png" alt="OzerZoom" class="slider-logo img-fluid">
         </div>
     </div>
 
