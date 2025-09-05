@@ -7,10 +7,11 @@ sfgfgfdg
     <!-- SLIDER -->
     <div class="slider">
         <div class="img-container">
-            <img src="img/logo.png" alt="OzerZoom" class="slider-logo img-fluid">
+            <img src="img/start-full.png" alt="OzerZoom" class="slider-logo img-fluid">
         </div>
     </div>
 
+    
     <!-- MAIN CONTENT -->
     <div class="main-content">
         <div class="container">
