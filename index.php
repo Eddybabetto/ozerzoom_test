@@ -3,7 +3,7 @@
     $description = "Questa è la descrizione della homepage.";
     include('header.php');
 ?>
-
+sfgfgfdg
     <!-- SLIDER -->
     <div class="slider">
         <div class="img-container">
