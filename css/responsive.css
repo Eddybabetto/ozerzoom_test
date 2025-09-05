@@ -1,0 +1,84 @@
+@media (max-width: 767px) {
+    .shopping-feature {
+        margin-bottom: 30px;
+    }
+
+    .ft-menu {
+        float: none;
+    }
+
+    .ft-menu .social {
+        float: right;
+    }
+
+    .ft-menu ul li {
+        margin-left: 15px;
+    }
+
+    .slider-logo {
+        max-width: 85%;
+    }
+
+    .navbar-nav {
+        float: none;
+    }
+
+    .navbar-nav li {
+        float: none !important;
+        text-align: center;
+        width: 100%;
+        padding-left: 0 !important;
+    }
+
+    .navbar-nav li a {
+        line-height: 30px !important;
+    }
+
+    .navbar-light .navbar-toogler {
+        color: rgb(155, 89, 182, 1);
+        border-color: rgb(155, 89, 182, 1);
+        margin: 0 auto;
+        outline: none;
+    }
+
+    .prod-logo {
+        width: 85%;
+        margin-top: 25px;
+    }
+
+    .prod-disc {
+        width: 100%;
+        float: none;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .prod-disc:hover:after {
+        width: 100%;
+    }
+
+    .prod-disc:first-child {
+        margin-top: 20px;
+    }
+
+    .slider-container {
+        height: 100%;
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .shopping-feature {
+        margin-bottom: 30px;
+    }
+
+    .prod-disc,
+    .prod-view-img,
+    .prod-logo {
+        width: 100%;
+    }
+
+    .prod-disc:hover::after {
+        width: 100%;
+    }
+}
